@@ -1,0 +1,4 @@
+﻿  code.cpp
+C:\Users\박성현\source\repos\DSP_2024_PROJECT\1\code.cpp(897,1): warning C4715: 'ChessBoard::checkConditionWhite': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\박성현\source\repos\DSP_2024_PROJECT\1\code.cpp(1508,1): warning C4715: 'ChessBoard::checkConditionBlack': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  1.vcxproj -> C:\Users\박성현\source\repos\DSP_2024_PROJECT\x64\Debug\Chess.exe
